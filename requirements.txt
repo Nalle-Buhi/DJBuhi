@@ -1,0 +1,4 @@
+py-cord
+PyNaCl
+youtube-dl
+requests
